@@ -1,8 +1,11 @@
 public class BonusMilesService {
 
-    public int calculate(int a) {
+    public int calculate(int price) {
         int result;
-        return a;
+        int bonus = 20;
+        int finalbonus;
+
+        return  finalbonus = price / bonus; // Итоговый бонус
     }
 
 }
